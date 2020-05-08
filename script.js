@@ -7,6 +7,8 @@ function numAleatorio(min = 0, max = 1000) {
 
     let res = { min: num1, max: num2}
 
+    console.log(res)
+
     
 }
 
